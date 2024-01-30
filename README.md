@@ -16,5 +16,5 @@ Here are some of the projects I'm currently engaged in or have completed:
 
 - **[Pipex](https://github.com/Sepahsalar/42-pipex)**: A project to recreate the behavior of the Unix shell command pipex, allowing for input/output redirection and command chaining.
 
-- **[Junction 2023](https://github.com/Sepahsalar/junction-2023)**: Huawei challenge for the Hackaton Junction - Nov 2023
+- **[Junction 2023](https://github.com/Sepahsalar/junction-2023)**: Huawei challenge for the Hackathon Junction - Nov 2023
  
