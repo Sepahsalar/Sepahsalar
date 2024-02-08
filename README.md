@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Alireza
 
-- 🌱 I’m currently tudying Software Engineering at [Hive Helsinki](https://www.hive.fi/en/).
+- 🌱 I’m currently studying Software Engineering at [Hive Helsinki](https://www.hive.fi/en/).
 - 🤝 I’m looking to collaborate on creative industries and entrepreneurial activities.
 - 📫 How to reach me: [Email](alirezasohrabizadeh@gmail.com) or [LinkedIn profile](https://www.linkedin.com/in/alireza-sohrabizadeh/)
 
