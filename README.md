@@ -6,7 +6,7 @@
 
 | My Skills                            |Most Used Languages                           |
 |----------------------------------------|--------------------------------------|
-| [![](https://skillicons.dev/icons?i=python,r,c,cpp,vscode,vim,bash,linux&perline=4)](https://skillicons.dev) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sepahsalar&theme=light)
+| [![](https://skillicons.dev/icons?i=python,r,c,cpp,vscode,vim,bash,linux&perline=4)](https://skillicons.dev) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sepahsalar&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # Projects
 
